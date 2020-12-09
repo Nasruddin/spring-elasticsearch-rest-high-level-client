@@ -8,6 +8,7 @@ import java.util.List;
 @Setter
 @ToString
 @RequiredArgsConstructor
+@NoArgsConstructor
 public class Director {
 
     @NonNull

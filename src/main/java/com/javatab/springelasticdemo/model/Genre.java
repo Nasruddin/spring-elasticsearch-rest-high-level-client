@@ -6,6 +6,7 @@ import lombok.*;
 @Setter
 @ToString
 @RequiredArgsConstructor
+@NoArgsConstructor
 public class Genre {
 
     @NonNull
